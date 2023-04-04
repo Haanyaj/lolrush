@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/lolrush/static/css/main.0f077273.chunk.css",
+    "main.js": "/lolrush/static/js/main.f9aa5254.chunk.js",
+    "main.js.map": "/lolrush/static/js/main.f9aa5254.chunk.js.map",
+    "runtime-main.js": "/lolrush/static/js/runtime-main.59864976.js",
+    "runtime-main.js.map": "/lolrush/static/js/runtime-main.59864976.js.map",
+    "static/js/2.0a6d921a.chunk.js": "/lolrush/static/js/2.0a6d921a.chunk.js",
+    "static/js/2.0a6d921a.chunk.js.map": "/lolrush/static/js/2.0a6d921a.chunk.js.map",
+    "index.html": "/lolrush/index.html",
+    "precache-manifest.f86c45d6406171192a25bfd9af9231e3.js": "/lolrush/precache-manifest.f86c45d6406171192a25bfd9af9231e3.js",
+    "service-worker.js": "/lolrush/service-worker.js",
+    "static/css/main.0f077273.chunk.css.map": "/lolrush/static/css/main.0f077273.chunk.css.map",
+    "static/js/2.0a6d921a.chunk.js.LICENSE": "/lolrush/static/js/2.0a6d921a.chunk.js.LICENSE",
+    "static/media/landscape.png": "/lolrush/static/media/landscape.a1471115.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.59864976.js",
+    "static/js/2.0a6d921a.chunk.js",
+    "static/css/main.0f077273.chunk.css",
+    "static/js/main.f9aa5254.chunk.js"
+  ]
+}
